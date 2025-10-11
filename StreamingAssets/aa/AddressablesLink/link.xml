@@ -4,6 +4,7 @@
     <type fullname="KnowledgeBookSO" preserve="all" />
     <type fullname="ItemDetail" preserve="nothing" serialized="true" />
     <type fullname="KnowledgeChapter" preserve="nothing" serialized="true" />
+    <type fullname="KnowledgePoint" preserve="nothing" serialized="true" />
     <type fullname="MagicPropertyWiki" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
